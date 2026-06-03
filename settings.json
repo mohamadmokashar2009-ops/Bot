@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 20
+      "speed": 2000
     },
     "look-around": {
       "enabled": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 20
+      "interval": 2000
     }
   },
   "modules": {
