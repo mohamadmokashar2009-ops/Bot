@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Mohamadgaming_ytty.aternos.me",
-    "port": 32553,
+    "port":32553,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
